@@ -346,7 +346,7 @@
 		DCE9900C129719F100D2655C /* code93.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = code93.h; sourceTree = "<group>"; };
 		DCF5C9AB11EA3AD100E7DC21 /* databar.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = databar.c; sourceTree = "<group>"; };
 		DCF5C9AC11EA3AD100E7DC21 /* databar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = databar.h; sourceTree = "<group>"; };
-		EB7E7B541E5B47F10080E511 /* ZBar.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ZBar.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		EB7E7B541E5B47F10080E511 /* ZBarDynamic.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ZBarDynamic.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB7E7B561E5B47F10080E511 /* ZBar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZBar.h; sourceTree = "<group>"; };
 		EB7E7B571E5B47F10080E511 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -384,7 +384,7 @@
 				D2AAC07E0554694100DB518D /* libzbar.a */,
 				DC3CEF9D121633C500D7A786 /* readertest.app */,
 				DC48C55F121A1E7F0047193B /* ZBarSDK */,
-				EB7E7B541E5B47F10080E511 /* ZBar.framework */,
+				EB7E7B541E5B47F10080E511 /* ZBarDynamic.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -652,9 +652,9 @@
 			productReference = DC3CEF9D121633C500D7A786 /* readertest.app */;
 			productType = "com.apple.product-type.application";
 		};
-		EB7E7B531E5B47F10080E511 /* ZBar */ = {
+		EB7E7B531E5B47F10080E511 /* ZBarDynamic */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EB7E7B5C1E5B47F10080E511 /* Build configuration list for PBXNativeTarget "ZBar" */;
+			buildConfigurationList = EB7E7B5C1E5B47F10080E511 /* Build configuration list for PBXNativeTarget "ZBarDynamic" */;
 			buildPhases = (
 				EB7E7B4F1E5B47F10080E511 /* Sources */,
 				EB7E7B501E5B47F10080E511 /* Frameworks */,
@@ -665,9 +665,9 @@
 			);
 			dependencies = (
 			);
-			name = ZBar;
+			name = ZBarDynamic;
 			productName = ZBar;
-			productReference = EB7E7B541E5B47F10080E511 /* ZBar.framework */;
+			productReference = EB7E7B541E5B47F10080E511 /* ZBarDynamic.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -703,7 +703,7 @@
 				DC3CEE821215C7EF00D7A786 /* ZBarSDK */,
 				DC1A4A4E11FF5D0500BCDA30 /* ZBarSDK.dmg */,
 				DC299A941208B5D4006A023C /* readertest */,
-				EB7E7B531E5B47F10080E511 /* ZBar */,
+				EB7E7B531E5B47F10080E511 /* ZBarDynamic */,
 			);
 		};
 /* End PBXProject section */
@@ -1394,7 +1394,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Distribution;
 		};
-		EB7E7B5C1E5B47F10080E511 /* Build configuration list for PBXNativeTarget "ZBar" */ = {
+		EB7E7B5C1E5B47F10080E511 /* Build configuration list for PBXNativeTarget "ZBarDynamic" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EB7E7B591E5B47F10080E511 /* Debug */,

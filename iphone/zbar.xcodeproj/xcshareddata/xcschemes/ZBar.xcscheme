@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "EB7E7B531E5B47F10080E511"
-               BuildableName = "ZBar.framework"
-               BlueprintName = "ZBar"
+               BuildableName = "ZBarDynamic.framework"
+               BlueprintName = "ZBarDynamic"
                ReferencedContainer = "container:zbar.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -46,8 +46,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EB7E7B531E5B47F10080E511"
-            BuildableName = "ZBar.framework"
-            BlueprintName = "ZBar"
+            BuildableName = "ZBarDynamic.framework"
+            BlueprintName = "ZBarDynamic"
             ReferencedContainer = "container:zbar.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -64,8 +64,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EB7E7B531E5B47F10080E511"
-            BuildableName = "ZBar.framework"
-            BlueprintName = "ZBar"
+            BuildableName = "ZBarDynamic.framework"
+            BlueprintName = "ZBarDynamic"
             ReferencedContainer = "container:zbar.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
