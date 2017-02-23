@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>ZBar.xcscheme_^#shared#^_</key>
+		<key>ZBarDynamic.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>4</integer>
@@ -53,6 +53,11 @@
 			<true/>
 		</dict>
 		<key>EB7E7B531E5B47F10080E511</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EBB549C61E5F42400056626C</key>
 		<dict>
 			<key>primary</key>
 			<true/>
